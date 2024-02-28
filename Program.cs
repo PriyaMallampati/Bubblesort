@@ -1,4 +1,8 @@
-﻿using System;
+﻿/* Author: Priya Mallampati
+   Date : 28/02/2024
+   This is code for Bubble sort * /
+
+using System;
 
 class BubbleSort
 {
